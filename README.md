@@ -1,6 +1,6 @@
 <div align=center>
- 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hi%20there&fontSize=70&animation=scaleIn&fontColor=white&fontAlign=70&fontAlignY=35&rotate=270)
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hi%20there&fontSize=70&fontColor=white&fontAlign=70&fontAlignY=35&rotate=20&desc=nice%20to%20meet%20you&descAlign=70&descAlignY=46)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonKyungRyu&show_icons=true&theme=vue)
 
