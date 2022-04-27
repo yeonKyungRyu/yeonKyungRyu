@@ -1,8 +1,7 @@
 <div align=center>
   
-<!-- heading
+
   ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=0&height=300&section=header&text=Hi%20there&fontSize=70&fontColor=white&fontAlign=70&fontAlignY=35&rotate=20&desc=nice%20to%20meet%20you&descAlign=70&descAlignY=46)
- -->
 <!-- text attributes-->
  ### ✨ *Welcome to my github.* ✨
  I'm student in korea.
